@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerya0001&show_icons=true&theme=radical&hide=prs)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerya0001&layout=compact&theme=radical)](https://github.com/nerya0001/github-readme-stats)
+
 
 <!--
 **nerya0001/nerya0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
