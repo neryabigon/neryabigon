@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerya0001&show_icons=true&theme=nord&hide=prs)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerya0001&layout=compact&theme=nord)](https://github.com/nerya0001/github-readme-stats)
+
 
 
 <!--
