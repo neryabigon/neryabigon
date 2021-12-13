@@ -9,8 +9,7 @@
 
 
 
-
-  <div align="center">
+<div align="center">
 
 <h3 align="left">Tools:</h3>
 <p align="center">
@@ -19,11 +18,7 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="C"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="35" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-
-  
-  
-  
-  </div>
+</div>
 
 
 <!--
