@@ -28,8 +28,8 @@
 <a href="https://creativecloud.adobe.com/" target="adobe"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-creative_cloud.svg" alt="adobe" width="40" height="40"/>  </a>
 <a href="https://www.adobe.com/il_en/products/photoshop-lightroom" target="lightroom"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-lightroom.svg" alt="lightroom" width="40" height="40"/>  
 <a href="https://www.adobe.com/products/photoshop" target="photoshop"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://www.vmware.com/products/workstation-player.html" target="vmware"> <img src="https://user-images.githubusercontent.com/66886354/146209443-fcd57e28-771d-4325-8cdc-7c95c2efb6fe.png" alt="vmware" width="40" height="40"/> 
 
-  
   
   
 </div>
