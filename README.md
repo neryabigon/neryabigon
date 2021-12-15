@@ -29,11 +29,11 @@
 <a href="https://www.adobe.com/il_en/products/photoshop-lightroom" target="lightroom"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-lightroom.svg" alt="lightroom" width="40" height="40"/>  
 <a href="https://www.adobe.com/products/photoshop" target="photoshop"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> 
 <a href="https://www.vmware.com/products/workstation-player.html" target="vmware"> <img src="https://user-images.githubusercontent.com/66886354/146209443-fcd57e28-771d-4325-8cdc-7c95c2efb6fe.png" alt="vmware" width="40" height="40"/> 
-
-  
+<a href="https://ubuntu.com/" target="ubuntu"> <img src="https://user-images.githubusercontent.com/66886354/146211305-39e0ed43-b4d0-4155-b3fb-17eff634a6e8.png" alt="ubuntu" width="40" height="40"/> 
   
 </div>
 
+![ubuntu-logo-8FDEC6A07B-seeklogo com](https://user-images.githubusercontent.com/66886354/146211305-39e0ed43-b4d0-4155-b3fb-17eff634a6e8.png)
 
 <!--
 **nerya0001/nerya0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
