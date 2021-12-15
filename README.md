@@ -22,7 +22,8 @@
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://creativecloud.adobe.com/" target="adobe"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-creative_cloud.svg" alt="adobe" width="40" height="40"/>  </a>
-<a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  
+<a href="https://www.adobe.com/il_en/products/photoshop-lightroom" target="lightroom"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-lightroom.svg" alt="lightroom" width="40" height="40"/>  
+<a href="https://www.adobe.com/products/photoshop" target="photoshop"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> 
 
   
   
