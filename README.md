@@ -33,7 +33,6 @@
   
 </div>
 
-![ubuntu-logo-8FDEC6A07B-seeklogo com](https://user-images.githubusercontent.com/66886354/146211305-39e0ed43-b4d0-4155-b3fb-17eff634a6e8.png)
 
 <!--
 **nerya0001/nerya0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
