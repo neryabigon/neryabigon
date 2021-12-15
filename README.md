@@ -30,9 +30,12 @@
 <a href="https://www.adobe.com/products/photoshop" target="photoshop"> <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> 
 <a href="https://www.vmware.com/products/workstation-player.html" target="vmware"> <img src="https://user-images.githubusercontent.com/66886354/146209443-fcd57e28-771d-4325-8cdc-7c95c2efb6fe.png" alt="vmware" width="40" height="40"/> 
 <a href="https://ubuntu.com/" target="ubuntu"> <img src="https://user-images.githubusercontent.com/66886354/146211305-39e0ed43-b4d0-4155-b3fb-17eff634a6e8.png" alt="ubuntu" width="40" height="40"/> 
-<a href="https://atom.io/" target="atom"> <img src="https://user-images.githubusercontent.com/66886354/146212130-defcfbb5-e2ac-44da-8e73-6ea24e38c2bc.jpg" alt="atom" width="40" height="40"/> 
+<a href="https://atom.io/" target="atom"> <img src="https://user-images.githubusercontent.com/66886354/146212716-e2d86b20-e3cc-453a-9b1f-e41746556d1a.png" alt="atom" width="40" height="40"/> 
   
 </div>
+  
+
+
 
 
 <!--
