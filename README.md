@@ -1,6 +1,6 @@
 
 
-Check out my [portfolio](neryabigon.github.io)!    
+Check out my [portfolio](https://neryabigon.github.io/)!    
 
 
 
