@@ -6,9 +6,9 @@ Check out my [portfolio](https://neryabigon.github.io/)!
 
 <div align="center">
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nerya0001&show_icons=true&theme=nord&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neryabigon&show_icons=true&theme=nord&hide=prs)](https://github.com/neryabigon/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerya0001&layout=compact&theme=nord)](https://github.com/nerya0001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neryabigon&layout=compact&theme=nord)](https://github.com/neryabigon/github-readme-stats)
 
 </div>
 
